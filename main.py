@@ -1,7 +1,7 @@
 import streamlit as st
 from langchain_helper import get_few_shot_db_chain
 
-st.title("Shaad T-Shirts: Database Q&A")
+st.title("Retail Database Assistant")
 
 question = st.text_input("Question: ")
 
