@@ -1,5 +1,7 @@
 # Retail Store Database Assistant
 
+![image](https://github.com/shaadclt/Retail-Store-Database-Assistant/assets/98437584/b540ea25-0829-4660-b249-4f077f4e32c9)
+
 This project is a Retail Store Database Assistant that uses LangChain and Google Palm Language Model to interact with a MySQL database. Users can ask questions about the database, and the assistant will generate MySQL queries to retrieve relevant information.
 
 ## Getting Started
