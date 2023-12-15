@@ -12,7 +12,7 @@ from few_shots import few_shots
 
 import os
 from dotenv import load_dotenv
-load_dotenv()  # take environment variables from .env (especially openai api key)
+load_dotenv()  
 
 
 def get_few_shot_db_chain():
